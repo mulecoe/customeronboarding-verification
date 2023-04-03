@@ -35,7 +35,7 @@ sfdc:
   getStatus: "/customer/customerdetailsbyemail"
 #http://customeronboarding-salesforce-api.sg-s1.cloudhub.io/api/customer/customerdetails
 plaid:
-  accessToken: "access-sandbox-2499749b-ed2c-403d-841d-bbbb16804600"
+  accessToken: "access-sandbox-590e3bc6-ab0b-4d74-9248-fac1164e89d7"
   getIdentity: "sandbox.plaid.com"
   
 email:
