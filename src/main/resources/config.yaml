@@ -28,8 +28,8 @@ api:
 sfdc:
   COAutoVerification: "COAutoVerification"
   user: "dineshdini075@wise-hawk-jkfgkz.com"
-  password: "Classmate@1234"
-  secToken: "2VX3OTpqzLLRpPoeJHtCn9QD"
+  password: "NST@1234"
+  secToken: "gv0XnELdvyg9beiuIiccziL9"
   aggReq: "customeronboarding-salesforce-api.sg-s1.cloudhub.io"
   loanApplicant: "/customer/customerdetails"
   getStatus: "/customer/customerdetailsbyemail"
